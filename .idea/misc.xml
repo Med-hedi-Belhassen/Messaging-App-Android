@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/21658/AndroidStudioProjects/app/src/main/res/drawable-xxxhdpi/about.xml" value="0.1037037037037037" />
+        <entry key="..\:/Users/21658/AndroidStudioProjects/app/src/main/res/drawable/add_button_bg.xml" value="0.176" />
+        <entry key="..\:/Users/21658/AndroidStudioProjects/app/src/main/res/drawable/bg_et_message.xml" value="0.2703125" />
+        <entry key="..\:/Users/21658/AndroidStudioProjects/app/src/main/res/drawable/bg_reciver.xml" value="0.2703125" />
+        <entry key="..\:/Users/21658/AndroidStudioProjects/app/src/main/res/drawable/bg_sender.xml" value="0.2703125" />
+        <entry key="..\:/Users/21658/AndroidStudioProjects/app/src/main/res/drawable/button_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/21658/AndroidStudioProjects/app/src/main/res/drawable/button_background1.xml" value="0.2703125" />
+        <entry key="..\:/Users/21658/AndroidStudioProjects/app/src/main/res/drawable/edit_text_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/21658/AndroidStudioProjects/app/src/main/res/drawable/linear_bg.xml" value="0.1037037037037037" />
+        <entry key="..\:/Users/21658/AndroidStudioProjects/app/src/main/res/drawable/main_layout_bg.xml" value="0.1" />
+        <entry key="..\:/Users/21658/AndroidStudioProjects/app/src/main/res/drawable/play_pause_bg.xml" value="0.1" />
+        <entry key="..\:/Users/21658/AndroidStudioProjects/app/src/main/res/layout/_recording.xml" value="0.13125" />
+        <entry key="..\:/Users/21658/AndroidStudioProjects/app/src/main/res/layout/activity_chat_detail.xml" value="0.2" />
+        <entry key="..\:/Users/21658/AndroidStudioProjects/app/src/main/res/layout/activity_group_chat.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/21658/AndroidStudioProjects/app/src/main/res/layout/activity_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/21658/AndroidStudioProjects/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Users/21658/AndroidStudioProjects/app/src/main/res/layout/activity_settings.xml" value="0.264" />
+        <entry key="..\:/Users/21658/AndroidStudioProjects/app/src/main/res/layout/activity_sign_up.xml" value="0.536" />
+        <entry key="..\:/Users/21658/AndroidStudioProjects/app/src/main/res/layout/activity_splash_screen.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/21658/AndroidStudioProjects/app/src/main/res/layout/activity_stranger_chat.xml" value="0.176" />
+        <entry key="..\:/Users/21658/AndroidStudioProjects/app/src/main/res/layout/app_bar.xml" value="0.23550724637681159" />
+        <entry key="..\:/Users/21658/AndroidStudioProjects/app/src/main/res/layout/app_barr.xml" value="0.23550724637681159" />
+        <entry key="..\:/Users/21658/AndroidStudioProjects/app/src/main/res/layout/fragment_calls.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/21658/AndroidStudioProjects/app/src/main/res/layout/fragment_chats.xml" value="0.2" />
+        <entry key="..\:/Users/21658/AndroidStudioProjects/app/src/main/res/layout/fragment_status.xml" value="0.264" />
+        <entry key="..\:/Users/21658/AndroidStudioProjects/app/src/main/res/layout/main_layout_bg.xml" value="0.1" />
+        <entry key="..\:/Users/21658/AndroidStudioProjects/app/src/main/res/layout/row_reciver.xml" value="0.8800000000000001" />
+        <entry key="..\:/Users/21658/AndroidStudioProjects/app/src/main/res/layout/row_reciver_image.xml" value="0.536" />
+        <entry key="..\:/Users/21658/AndroidStudioProjects/app/src/main/res/layout/row_reciver_recording.xml" value="0.6" />
+        <entry key="..\:/Users/21658/AndroidStudioProjects/app/src/main/res/layout/row_sender.xml" value="0.8" />
+        <entry key="..\:/Users/21658/AndroidStudioProjects/app/src/main/res/layout/row_sender_image.xml" value="0.176" />
+        <entry key="..\:/Users/21658/AndroidStudioProjects/app/src/main/res/layout/row_sender_recording.xml" value="0.4297520661157025" />
+        <entry key="..\:/Users/21658/AndroidStudioProjects/app/src/main/res/layout/row_show_users.xml" value="0.264" />
+        <entry key="..\:/Users/21658/AndroidStudioProjects/app/src/main/res/menu/appbarmenu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
